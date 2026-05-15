@@ -1,27 +1,11 @@
 <h1 align="center">Hey 👋, I'm @wandderq</h1>
+15yo self-taught python developer from Russia
 
-```python
-wandderq.roles = [
-    'Pythonython Developer',
-    'Automation Enthusiast',
-    'Cybersecurity Learner'
-]
+ちょっと日本語できる
 
-wandderq.about = """
-    15-year-old self-taught programmer.
-    Building tools, exploring networks,
-    and diving into systems internals
-"""
-
-wandderq.uses_arch_btw = True
-
-# Traceback (most recent call last):
-#  File "<string>", line 1, in <module>
-#  NameError: name 'wandderq' is not defined
-```
+<i>aaand what else should i write here</i>
 
 ## About Me
-
 - 🔭 **Currently working on**: **[osuuserbot](https://github.com/wandderq/osuuserbot)** — an async Telegram bot for osu! player stats
 - 🌱 **Learning**: **asyncio**, **SQLite**, system-level networking
 - 🧪 **Experimented with**: **PyTorch** (wrote a custom GRU from scratch)
