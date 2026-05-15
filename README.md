@@ -8,7 +8,7 @@
 ## About Me
 - 🔭 **Currently working on**: **[osuuserbot](https://github.com/wandderq/osuuserbot)** — an async Telegram bot for osu! player stats
 - 🌱 **Learning**: **asyncio**, **SQLite**, system-level networking
-- 🧪 **Experimented with**: **PyTorch** (wrote a custom GRU from scratch)
+- 🧪 **Experimented with**: **PyTorch** (wrote a custom GRU from scratch) (i lost it tho)
 - 🎯 **Career compass**: Software Engineering · Automation · Cybersecurity (still exploring)
 - 🐧 **Daily driver**: Arch Linux
 - 📫 **Reach me**: [Telegram](https://t.me/wandderq)
