@@ -1,5 +1,6 @@
 ## hey, i'm wandderq
 15yo self-taught Python developer from Russia
+
 ちょっと日本語できる（N5)
 
 ### me.about
