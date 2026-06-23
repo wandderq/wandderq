@@ -4,8 +4,8 @@
 ちょっと日本語できる（N5)
 
 ### me.about
-- I'm currently working on **[osuuserbot](https://github.com/wandderq/osuuserbot)** and **[yamig](https://github.com/wandderq/yamig)**
-- Learning **JavaScript**
+- I'm currently working on **[micture](https://github.com/wandderq/micture)**
+- Learning **Javascript**
 - OS: Arch linux (btw)
 
 ### me.skills
