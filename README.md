@@ -5,7 +5,6 @@
 
 ### me.about
 - I'm currently working on **[micture](https://github.com/wandderq/micture)**
-- Learning **Javascript**
 - OS: Arch linux (btw)
 
 ### me.skills
