@@ -4,7 +4,7 @@ self-taught python developer from Russia
 ちょっと日本語できる（N5)
 
 ### me.about
-- I'm currently working on **[brailler](https://github.com/wandderq/brailler)**
+- learning C/C++
 - OS: Arch linux (btw)
 
 ### me.skills
